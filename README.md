@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on [Python scripting](Django web development)
 
-- 🌱 I’m currently learning **Game development**
+- 🌱 I’m currently learning **Django web development**
 
 - 👯 I’m looking to collaborate on [AWS](Google)
 
@@ -19,7 +19,7 @@
 
 - 📝 I regularly write articles on [IT infrastructure](IT infrastructure)
 
-- 💬 Ask me about **Python, react, vie and Django**
+- 💬 Ask me about **Python, react, JavaScript and Django**
 
 - 📫 How to reach me **onicahinga25@gmail.com**
 
